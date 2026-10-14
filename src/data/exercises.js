@@ -576,5 +576,90 @@ export const relatedTabs = {
     category: ex.category,
     duration: "Video Asli MP4",
   })),
-  articles: []
+  articles: [
+    {
+      id: 1,
+      title: "The Big 3 (SBD): Mengapa Squat, Bench, dan Deadlift Disebut Fondasi Utama Latihan Beban?",
+      readTime: "6 menit",
+      author: "FitEdu Coach Team",
+      date: "12 Okt 2026",
+      content: [
+        { type: "h2", text: "Apa Itu 'The Big 3' dalam Angkat Beban?" },
+        { type: "p", text: "Dalam dunia strength training dan powerlifting, Squat, Bench Press, dan Deadlift (sering disingkat SBD) dikenal sebagai 'The Big 3'. Ketiga gerakan ini adalah pola gerakan compound murni yang menguji dan membangun kekuatan seluruh tubuh dari ujung kepala hingga ujung kaki." },
+        { type: "p", text: "Squat melatih daya dorong tubuh bagian bawah (quadriceps dan gluteus), Bench Press melatih daya dorong tubuh bagian atas (dada, triceps, dan bahu depan), sedangkan Deadlift membangun kekuatan tarikan rantai posterior (hamstrings, gluteus, dan seluruh punggung)." },
+        { type: "h2", text: "Efisiensi Latihan Compound vs Mesin Isolasi" },
+        { type: "p", text: "Berbeda dengan mesin gym yang hanya menggerakkan satu sendi secara terisolir, gerakan compound menuntut koordinasi neuromuscular yang kompleks. Otot penstabil (stabilizer) dan core Anda harus bekerja keras untuk menahan barbell agar tetap berada pada jalur angkatan yang tepat." },
+        { type: "p", text: "Kombinasi beban berat dan keterlibatan banyak kelompok otot besar secara serentak terbukti merangsang pelepasan hormon anabolik alami, meningkatkan kepadatan mineral tulang, serta membakar kalori dalam jumlah besar bahkan setelah sesi latihan usai." },
+        { type: "h2", text: "Kunci Progresi Jangka Panjang" },
+        { type: "p", text: "Kelebihan utama dari ketiga gerakan ini adalah kemudahannya untuk diukur secara objektif melalui Progressive Overload. Dengan menambahkan variasi seperti pause rep, tempo, dan variasi pegangan (seperti yang ada pada daftar 15 video latihan FitEdu), Anda dapat memecahkan sticking point tanpa harus berganti-ganti latihan yang tidak perlu." }
+      ]
+    },
+    {
+      id: 2,
+      title: "Sumo vs Conventional Deadlift: Mana yang Paling Tepat untuk Proporsi Tubuh Anda?",
+      readTime: "7 menit",
+      author: "Budi Santoso, CSCS",
+      date: "10 Okt 2026",
+      content: [
+        { type: "h2", text: "Perdebatan Klasik di Lantai Gym" },
+        { type: "p", text: "Apakah Sumo deadlift itu curang? Jawabannya jelas: tidak. Baik Sumo maupun Conventional adalah variasi resmi yang sah dalam kompetisi powerlifting internasional. Keduanya menguji kekuatan absolut tubuh, namun membebankan otot dan persendian dengan mekanika yang sangat berbeda." },
+        { type: "h2", text: "Memahami Perbedaan Mekanika Tubuh" },
+        { type: "p", text: "Pada Conventional Deadlift, jarak kedua kaki lebih rapat (selebar pinggul). Hal ini membuat torso Anda condong lebih ke depan, sehingga momen tuas (moment arm) pada pinggang dan tulang belakang lebih panjang. Gerakan ini sangat dominan menguji kekuatan otot erector spinae (punggung bawah), gluteus, dan hamstrings." },
+        { type: "p", text: "Sebaliknya, pada Sumo Deadlift, posisi kaki dibuka sangat lebar dengan jari kaki mengarah ke luar. Hal ini membuat pinggul bisa lebih dekat ke barbell dan torso tetap jauh lebih tegak. Tekanan kompresi pada punggung bawah berkurang drastis, namun beban dialihkan secara intensif ke paha bagian dalam (adductor), gluteus, dan paha depan (quadriceps)." },
+        { type: "h2", text: "Cara Menentukan Pilihan Terbaik" },
+        { type: "p", text: "Jika Anda memiliki torso yang relatif panjang dan lengan pendek, Conventional Deadlift mungkin akan terasa sangat membebani punggung bawah. Sumo Deadlift seringkali menjadi pilihan yang jauh lebih ramah sendi dan optimal bagi mereka yang memiliki mobilitas pinggul yang baik." },
+        { type: "p", text: "Sebaiknya jangan pilih salah satu saja secara fanatik. Gunakan Conventional untuk membangun ketebalan punggung, dan gunakan Sumo serta variasinya (seperti Tempo Sumo atau Pause Sumo) untuk memperkuat panggul dan teknik angkatan Anda." }
+      ]
+    },
+    {
+      id: 3,
+      title: "Mengenal Metode Pause dan Tempo: Rahasia Menembus Sticking Point Angkatan",
+      readTime: "5 menit",
+      author: "FitEdu Performance Lab",
+      date: "08 Okt 2026",
+      content: [
+        { type: "h2", text: "Apa Itu Sticking Point?" },
+        { type: "p", text: "Pernahkah Anda merasa barbell bergerak mudah di awal angkatan, namun tiba-tiba 'macet' di pertengahan jalan saat melakukan Bench Press atau Squat? Titik di mana gerakan terhenti inilah yang disebut sticking point—titik dengan kelemahan mekanis terbesar dalam rantai gerakan Anda." },
+        { type: "h2", text: "Kekuatan Menghentikan Beban (Pause Repetition)" },
+        { type: "p", text: "Ketika Anda menurunkan barbell dengan cepat lalu langsung memantulkannya, tubuh Anda memanfaatkan energi elastis otot (Stretch-Shortening Cycle / SSC). Meskipun bisa membantu mengangkat beban lebih berat, pantulan ini menutupi kelemahan otot asli Anda." },
+        { type: "p", text: "Dengan melakukan Pause (seperti pada Pause Squat, Pause Sumo Deadlift, atau Wide-Grip Pause Bench Press), Anda menahan beban diam selama 1 hingga 2 detik di posisi tersulit tanpa mengendurkan ketegangan core. Hal ini menghilangkan momentum, memaksa otot menghasilkan tenaga murni dari nol (starting strength), dan memperbaiki kesadaran postur tubuh Anda." },
+        { type: "h2", text: "Memperpanjang Time Under Tension dengan Tempo" },
+        { type: "p", text: "Metode Tempo melibatkan pengaturan waktu pada fase eksentrik (turun). Misalnya, menurunkan barbell dalam hitungan 3 sampai 5 detik pada Tempo Sumo Deadlift atau Tempo Pause Bench Press. Kecepatan yang terkontrol ini memperpanjang Time Under Tension (TUT), merangsang mikrolesi serat otot untuk hipertrofi maksimal, sekaligus memprogram otak agar jalur barbell selalu tegak lurus." }
+      ]
+    },
+    {
+      id: 4,
+      title: "Teknik 'Bracing' dan Valsalva Maneuver: Benteng Pelindung Tulang Belakang",
+      readTime: "8 menit",
+      author: "Dr. Andi Setiawan, Sp.KO",
+      date: "05 Okt 2026",
+      content: [
+        { type: "h2", text: "Mengapa Tulang Belakang Rentan Cedera?" },
+        { type: "p", text: "Saat mengangkat beban berat seperti Squat atau Deadlift ratusan kilogram, tulang belakang kita menerima beban aksial (tekanan vertikal dan gaya geser) yang sangat masif. Tanpa perlindungan internal, cakram tulang rawan (intervertebral disc) bisa mengalami kompresi berlebih atau bahkan hernia nukleus pulposus (HNP / saraf terjepit)." },
+        { type: "h2", text: "Bracing Bukan Mengempiskan Perut (Hollowing)" },
+        { type: "p", text: "Banyak pemula salah mengartikan instruksi 'kencangkan perut'. Mereka justru menarik pusar ke dalam (mengempiskan perut). Ini adalah kesalahan fatal! Menarik perut ke dalam justru mengurangi diameter silinder perut dan melemahkan stabilitas tulang belakang." },
+        { type: "p", text: "Bracing yang benar adalah membayangkan perut Anda bersiap menerima pukulan keras. Anda harus mengunci dinding perut ke arah luar 360 derajat—mengaktifkan transversus abdominis, obliques, lumbar spine musculature, dan otot dasar panggul secara simultan." },
+        { type: "h2", text: "Penerapan Valsalva Maneuver Secara Aman" },
+        { type: "p", text: "Tarik napas dalam-dalam melalui hidung dan mulut langsung ke rongga perut (bukan dada atas), lalu tutup pita suara (glotis). Kunci udara tersebut di dalam rongga perut untuk menciptakan Intra-Abdominal Pressure (IAP). Tekanan gas bertekanan tinggi di dalam perut ini berfungsi layaknya tabung baja penyangga dari bagian dalam tubuh." },
+        { type: "p", text: "Pertahankan tekanan ini saat Anda bergerak turun, dan baru hembuskan napas secara bertahap saat Anda telah melewati titik angkatan tersulit menuju posisi berdiri tegak." }
+      ]
+    },
+    {
+      id: 5,
+      title: "Variasi Grip & Kaki pada Bench Press: Mengatur Target Dada vs Triceps",
+      readTime: "6 menit",
+      author: "FitEdu Coach Team",
+      date: "02 Okt 2026",
+      content: [
+        { type: "h2", text: "Satu Alat, Beragam Efek Stimulus" },
+        { type: "p", text: "Bench press bukan hanya latihan tunggal yang kaku. Hanya dengan mengubah lebar genggaman tangan atau posisi tumpuan kaki di atas bench, fokus otot yang bekerja bisa bergeser secara dramatis dari dada luar hingga lengan belakang (triceps)." },
+        { type: "h2", text: "Wide-Grip vs Close-Grip Bench Press" },
+        { type: "p", text: "Pada Wide-Grip Bench Press (pegangan di luar ring barbell), rentang gerak (range of motion) menjadi lebih pendek. Posisi lengan yang terbuka meregangkan serat otot dada (pectoralis major) lebih maksimal. Variasi ini sangat populer bagi powerlifter yang ingin memangkas jarak tempuh barbell serta binaragawan yang mengejar ketebalan dada luar." },
+        { type: "p", text: "Sebaliknya, pada Close-Grip Bench Press (CGBP), pegangan dirapatkan selebar bahu dengan siku mendekat ke rusuk badan. Posisi ini mengalihkan beban kerja utama ke otot triceps (lengan belakang) dan bahu depan, sekaligus menjadi sarana sempurna melatih kekuatan mengunci siku (lockout strength) pada bench press reguler." },
+        { type: "h2", text: "Mengeliminasi Bantuan Kaki: Larsen Press & Feet-Up" },
+        { type: "p", text: "Pada Bench Press biasa, atlet memanfaatkan dorongan tumit ke lantai (leg drive) untuk memindahkan tenaga dari lantai ke tubuh atas. Namun jika Anda ingin mengisolasi tubuh atas secara murni, variasikan dengan Feet-Up Bench Press atau Larsen Press (kaki lurus melayang di udara)." },
+        { type: "p", text: "Tanpa tumpuan kaki, Anda tidak bisa melengkungkan pinggang secara berlebihan (arch). Otot core terpaksa bekerja keras menyeimbangkan tubuh agar tidak jatuh ke samping, dan seluruh beban dorongan ditanggung 100% oleh dada dan lengan Anda." }
+      ]
+    }
+  ]
 };

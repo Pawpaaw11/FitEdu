@@ -103,7 +103,7 @@ const ArticleItem = ({ id, title, readTime }) => (
   </Link>
 );
 
-const SUBTABS = ["Daftar 15 Video Latihan", "Berdasarkan Kategori", "Artikel Terkait"];
+const SUBTABS = ["semua video", "Berdasarkan Kategori", "Artikel Terkait"];
 
 const RelatedContent = ({ data, activeExerciseId, onSelectExercise }) => {
   const { variations = [], articles = [] } = data;
